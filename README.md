@@ -1,0 +1,3 @@
+- 👋   Hi, I’m Omer. 
+- 👀   I’m interested in building stuff that people use, mostly with MERN but not necessarily.
+- 📫   How to reach me: [Twitter](https://twitter.com/Omer_Ben_Ami)
